@@ -10,7 +10,7 @@ namespace Dip_S2_Week2_TaskC
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello doggo");
+            Console.WriteLine("Hello doggoo");
         }
     }
 }
