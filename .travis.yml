@@ -1,0 +1,4 @@
+language: csharp
+solution: ".\Dip_S2_Week2_TaskC\Dip_S2_Week2_TaskC.sln"
+script:
+- xbuild .\Dip_S2_Week2_TaskC\Dip_S2_Week2_TaskC.sln
