@@ -1,2 +1,2 @@
 language: csharp
-solution: "Dip_S2_Week2_TaskC\Dip_S2_Week2_TaskC.sln"
+solution: "./Dip_S2_Week2_TaskC/Dip_S2_Week2_TaskC.sln"
